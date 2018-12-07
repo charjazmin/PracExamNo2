@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PracExamNo2</string>
+    <string name="text1">Fullname</string>
+    <string name="text2">Age</string>
+    <string name="text3">Gender</string>
+    <string name="searchbtn">Search</string>
+    <string name="savebtn">Save</string>
+</resources>
